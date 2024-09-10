@@ -3,3 +3,4 @@ Writes some comments or remarks in the readme.md file then push it to GitHub.
 
 > Some remarks...
 
+<img width="1194" alt="Screenshot 2024-09-10 at 1 10 53 PM" src="https://github.com/user-attachments/assets/14bce245-0e19-4b23-aa1a-d554ab04774c">
